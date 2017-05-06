@@ -5,18 +5,18 @@ Resources for the 2017 ZipRecruiter Hackathon
 
 ### HR
 
-Bureau of Labor Statistics https://www.bls.gov/data/
-Society for Human Resource Management https://shrm.org
+- Bureau of Labor Statistics https://www.bls.gov/data/
+- Society for Human Resource Management https://shrm.org
 
 ### Jobs
 
-Bureau of Labor Statistics https://www.bls.gov/data/
+- Bureau of Labor Statistics https://www.bls.gov/data/
 
 ## Technology
 
-Open Source Resume Parsing https://github.com/antonydeepak/ResumeParser
-HR Open Standards http://www.hropenstandards.org
-JSON Resume https://jsonresume.org
+- Open Source Resume Parsing https://github.com/antonydeepak/ResumeParser
+- HR Open Standards http://www.hropenstandards.org
+- JSON Resume https://jsonresume.org
 
 ## Ideas
 
